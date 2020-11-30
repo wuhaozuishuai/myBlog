@@ -137,7 +137,8 @@ module.exports = {
       "/docs/FrontEnd/": [
           //当页目录连接、将在页面左部加载出每个md文件的标题
         "",//当前readme
-        "JS中的this指向"
+        "JS中的this指向",
+          "recode"
       ],
       "/docs/BathDuck/": [
           "",
@@ -234,7 +235,7 @@ module.exports = {
               el: '#valine-vuepress-comment',
               appId: 'pb0BqCJ22G2mQ1rSjMaDcWGt-gzGzoHsz',// your appId
               appKey: '2yfKs36QDsF2NDc1aLyjDhci', // your appKey
-              visitor:true
+              visitor:true,
             }
           }
      ]

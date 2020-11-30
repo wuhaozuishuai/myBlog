@@ -1,138 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="da718c10-b973-425e-9f43-62e5aa0b3a4f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/components/Valine.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/bitbug_faviconEnd.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/bitbug_faviconIn.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/flex/flex1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/flex/flex10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/flex/flex11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/flex/flex12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/flex/flex13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/flex/flex14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/flex/flex2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/flex/flex3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/flex/flex4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/flex/flex5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/flex/flex6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/flex/flex7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/flex/flex8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/flex/flex9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/hero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/hero1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/img/note/gitmoji_img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/img/note/vue-hook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/img/project/Veronica01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/img/project/Veronica02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/img/project/Veronica03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/img/project/Veronica04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/img/project/Veronica05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/img/project/Veronica06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/js/MouseClickEffect.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/meLogo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/public/meme.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/styles/index.styl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vuepress/styles/palette.styl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogs/折腾记录/2020/【折腾记录01】一个本地代码仓库push到两个代码管理平台.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/BathDuck/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/BathDuck/梦开始的地方.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/FrontEnd/JS中的this指向.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/FrontEnd/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/project/Demo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/project/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/project/Veronica.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/css/0.styles.d02d1ece.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Veronica01.fea3f8f4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Veronica02.271a8e3c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Veronica03.6156e0b2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Veronica04.c63c8bf1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Veronica05.e2a0b86d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/Veronica06.6591c97a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/bg.2cfdbb33.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/1.733272dc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/10.e7773852.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/11.67e2a93d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/12.e495207a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/13.2ec4bc59.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/14.a219a132.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/15.3004522d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/16.a39b44b0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/17.23b9ed79.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/18.e5425d32.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/19.5181e80e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/20.8b696e68.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/21.79e22a1a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/22.4006c753.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/23.aad15c2c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/4.e7261445.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/5.c5bab9de.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/6.15362343.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/7.0dbcfce1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/8.5f595dc2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/9.fa0ee140.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/app.00dc6d12.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/vendors~flowchart.37ba7798.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bitbug_faviconEnd.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bitbug_faviconIn.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/blogs/折腾记录/2020/【折腾记录01】一个本地代码仓库push到两个代码管理平台.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/categories/frontEnd/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/categories/心情随笔/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/docs/BathDuck/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/docs/BathDuck/梦开始的地方.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/docs/FrontEnd/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/docs/project/Demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/docs/project/Veronica.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/docs/project/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/flex/flex1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/flex/flex10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/flex/flex11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/flex/flex12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/flex/flex13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/flex/flex14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/flex/flex2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/flex/flex3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/flex/flex4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/flex/flex5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/flex/flex6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/flex/flex7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/flex/flex8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/flex/flex9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/hero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/hero1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/note/gitmoji_img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/note/vue-hook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/project/Veronica01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/project/Veronica02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/project/Veronica03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/project/Veronica04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/project/Veronica05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/project/Veronica06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/MouseClickEffect.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/meLogo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/meme.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/service-worker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tag/Git/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tag/GitHub/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tag/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tag/清风/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/timeline/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/新建文本文档.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/docs/BathDuck/recode_20201116164159.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/docs/BathDuck/recode_20201116164222.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/docs/BathDuck/recode_20201116164349.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/BathDuck/forXY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/BathDuck/recode.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FrontEnd/【vue】知识点.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/BathDuck/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/BathDuck/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/BathDuck/梦开始的地方.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/BathDuck/梦开始的地方.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +50,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="init" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -167,9 +67,10 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Febs2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/FrontEnd" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -181,8 +82,12 @@
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="project.scopes" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\vue\my-blog\docs\FrontEnd" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\vue\tonight\xxggg.github.io\docs\BathDuck" />
     </key>
@@ -215,6 +120,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -229,17 +135,37 @@
       <workItem from="1603457373827" duration="17147000" />
       <workItem from="1603677220612" duration="3509000" />
       <workItem from="1603681865332" duration="329000" />
-      <workItem from="1603682636237" duration="351000" />
+      <workItem from="1603682636237" duration="9538000" />
+      <workItem from="1603764955602" duration="1353000" />
+      <workItem from="1603777588868" duration="599000" />
+      <workItem from="1603849100637" duration="1445000" />
+      <workItem from="1604038448851" duration="91000" />
+      <workItem from="1606705259765" duration="1301000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2571" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603697357321">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2571" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603697357321" />
     <state x="165" y="299" key="EditFileWatcherDialog" timestamp="1603460509985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -248,32 +174,36 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="289" y="278" key="FileChooserDialogImpl/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603460505679" />
-    <state width="1899" height="349" key="GridCell.Tab.0.bottom" timestamp="1603682769944">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1606706235961">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="127" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603445590641" />
-    <state width="1899" height="349" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603682769944" />
+    <state width="1899" height="349" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603697125062" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606706235961" />
     <state width="1899" height="172" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603478156606" />
     <state width="1899" height="433" key="GridCell.Tab.0.bottom/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603487333692" />
-    <state width="1899" height="349" key="GridCell.Tab.0.center" timestamp="1603682769944">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1606706235961">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="127" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603445590641" />
-    <state width="1899" height="349" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603682769944" />
+    <state width="1899" height="349" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603697125061" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606706235961" />
     <state width="1899" height="172" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603478156604" />
     <state width="1899" height="433" key="GridCell.Tab.0.center/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603487333692" />
-    <state width="1899" height="349" key="GridCell.Tab.0.left" timestamp="1603682769943">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1606706235961">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="127" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603445590641" />
-    <state width="1899" height="349" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603682769943" />
+    <state width="1899" height="349" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603697125061" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606706235961" />
     <state width="1899" height="172" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603478156604" />
     <state width="1899" height="433" key="GridCell.Tab.0.left/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603487333692" />
-    <state width="1899" height="349" key="GridCell.Tab.0.right" timestamp="1603682769944">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1606706235961">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="127" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603445590641" />
-    <state width="1899" height="349" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603682769944" />
+    <state width="1899" height="349" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603697125061" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606706235961" />
     <state width="1899" height="172" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603478156605" />
     <state width="1899" height="433" key="GridCell.Tab.0.right/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603487333692" />
     <state x="2036" y="117" width="1688" height="806" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603677823255">
@@ -295,6 +225,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2658" y="419" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603679637299" />
+    <state x="2672" y="378" key="scopes" timestamp="1603697525768">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2672" y="378" key="scopes/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603697525768" />
     <state x="2459" y="183" width="840" height="856" key="search.everywhere.popup" timestamp="1603678254604">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
