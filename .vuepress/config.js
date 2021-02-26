@@ -1,7 +1,7 @@
 //https://github.com/XXGGG
 module.exports = {
   "title": "Technology blog of WH",
-  "description": "We are certainly in a tight corner, but with perseverance we shall manage to get out of it",
+  "description": "今天。没有blog了哟",
   "dest": "public",
   "locales": {
     '/': {
@@ -136,13 +136,12 @@ module.exports = {
     "sidebar": {
       "/docs/FrontEnd/": [
           //当页目录连接、将在页面左部加载出每个md文件的标题
-        "",//当前readme
-        "JS中的this指向",
-          "recode"
+          "",//当前readme
+          "JS中的this指向",
+          // "recode",
       ],
       "/docs/BathDuck/": [
           "",
-        "梦开始的地方",
       ],
       // "/docs/project/": [
       //   "",
@@ -161,14 +160,6 @@ module.exports = {
         "text": "标签"
       }
     },
-    "friendLink": [
-      {
-        "title": "谢夏戈的博客（GitHub）xxggg.github.io",
-        "desc": "GitHub Pages 部署的博客",
-        // "email": "534464179@qq.com",
-        "link": "https://xxggg.github.io"
-      }
-    ],
     "logo": "/meLogo.jpg",
     "search": true,
     "searchMaxSuggestions": 100,

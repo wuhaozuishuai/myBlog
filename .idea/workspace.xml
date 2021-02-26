@@ -20,19 +20,88 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da718c10-b973-425e-9f43-62e5aa0b3a4f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.history/docs/BathDuck/recode_20201116164159.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.history/docs/BathDuck/recode_20201116164222.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.history/docs/BathDuck/recode_20201116164349.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator-enh.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/BathDuck/forXY.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/BathDuck/recode.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/FrontEnd/【vue】知识点.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/public/no_00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/public/no_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/css/0.styles.8e93c78e.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/1.b92e32a3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/10.13435292.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/11.9ca085aa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/12.821b6c08.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/13.311b2fbb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/14.f618163a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/15.550743b6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/16.825ee888.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/17.9bbda080.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/18.2574ba00.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/19.ffca85f6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/20.fdae80b0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/21.46bf0805.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/22.8e52ceb3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/23.4515c60a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/24.4663bd07.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/25.85d5ce71.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/26.2bd1cfb0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/4.b90428dd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/5.d79b468d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/6.3c58c24d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/7.ba490455.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/8.93aac4ad.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/9.28864ee2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/app.0a48de04.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/docs/BathDuck/recode.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/docs/FrontEnd/JS中的this指向.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/docs/FrontEnd/【vue】知识点.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/no_00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/no_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tag/js this/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tag/js vue/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BathDuck/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/BathDuck/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BathDuck/梦开始的地方.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/BathDuck/梦开始的地方.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/BathDuck/forXY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/FrontEnd/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FrontEnd/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/css/0.styles.d02d1ece.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/1.733272dc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/10.e7773852.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/11.67e2a93d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/12.e495207a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/13.2ec4bc59.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/14.a219a132.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/15.3004522d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/16.a39b44b0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/17.23b9ed79.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/18.e5425d32.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/19.5181e80e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/20.8b696e68.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/21.79e22a1a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/22.4006c753.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/23.aad15c2c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/4.e7261445.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/5.c5bab9de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/6.15362343.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/7.0dbcfce1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/8.5f595dc2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/9.fa0ee140.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/app.00dc6d12.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/blogs/折腾记录/2020/【折腾记录01】一个本地代码仓库push到两个代码管理平台.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blogs/折腾记录/2020/【折腾记录01】一个本地代码仓库push到两个代码管理平台.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/frontEnd/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/frontEnd/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/心情随笔/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/心情随笔/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/docs/BathDuck/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/docs/BathDuck/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/docs/BathDuck/梦开始的地方.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/docs/BathDuck/梦开始的地方.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/docs/FrontEnd/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/docs/FrontEnd/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/docs/project/Demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/docs/project/Demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/docs/project/Veronica.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/docs/project/Veronica.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/docs/project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/docs/project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/MouseClickEffect.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/MouseClickEffect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tag/Git/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tag/Git/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tag/GitHub/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tag/GitHub/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tag/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tag/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tag/清风/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tag/清风/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/timeline/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/timeline/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +139,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/FrontEnd" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.vuepress" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -85,14 +154,16 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\vue\my-blog\docs\FrontEnd" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\vue\my-blog\.vuepress\public" />
       <recent name="D:\vue\tonight\xxggg.github.io\docs\BathDuck" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\vue\my-blog\.vuepress" />
+      <recent name="D:\vue\my-blog\docs\FrontEnd" />
+    </key>
   </component>
-  <component name="RunManager" selected="npm.dev">
+  <component name="RunManager" selected="npm.build">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -115,8 +186,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.dev" />
         <item itemvalue="npm.build" />
+        <item itemvalue="npm.dev" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +211,12 @@
       <workItem from="1603777588868" duration="599000" />
       <workItem from="1603849100637" duration="1445000" />
       <workItem from="1604038448851" duration="91000" />
-      <workItem from="1606705259765" duration="1301000" />
+      <workItem from="1606705259765" duration="8801000" />
+      <workItem from="1606828491935" duration="2398000" />
+      <workItem from="1607483872173" duration="157000" />
+      <workItem from="1609921097552" duration="810000" />
+      <workItem from="1610328969992" duration="384000" />
+      <workItem from="1614239611577" duration="1956000" />
     </task>
     <servers />
   </component>
@@ -157,83 +233,39 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2571" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603697357321">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2571" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603697357321" />
-    <state x="165" y="299" key="EditFileWatcherDialog" timestamp="1603460509985">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="165" y="299" key="EditFileWatcherDialog/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603460509985" />
-    <state x="289" y="278" key="FileChooserDialogImpl" timestamp="1603460505679">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="289" y="278" key="FileChooserDialogImpl/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603460505679" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1606706235961">
+    <state width="1322" height="121" key="GridCell.Tab.0.bottom" timestamp="1614241568147">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="127" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603445590641" />
-    <state width="1899" height="349" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603697125062" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606706235961" />
-    <state width="1899" height="172" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603478156606" />
-    <state width="1899" height="433" key="GridCell.Tab.0.bottom/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603487333692" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1606706235961">
+    <state width="1322" height="121" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614241568147" />
+    <state width="1712" height="258" key="GridCell.Tab.0.bottom/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1606832158381" />
+    <state width="1322" height="121" key="GridCell.Tab.0.center" timestamp="1614241568146">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="127" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603445590641" />
-    <state width="1899" height="349" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603697125061" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606706235961" />
-    <state width="1899" height="172" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603478156604" />
-    <state width="1899" height="433" key="GridCell.Tab.0.center/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603487333692" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1606706235961">
+    <state width="1322" height="121" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1614241568146" />
+    <state width="1712" height="258" key="GridCell.Tab.0.center/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1606832158381" />
+    <state width="1322" height="121" key="GridCell.Tab.0.left" timestamp="1614241568146">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="127" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603445590641" />
-    <state width="1899" height="349" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603697125061" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606706235961" />
-    <state width="1899" height="172" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603478156604" />
-    <state width="1899" height="433" key="GridCell.Tab.0.left/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603487333692" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1606706235961">
+    <state width="1322" height="121" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1614241568146" />
+    <state width="1712" height="258" key="GridCell.Tab.0.left/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1606832158380" />
+    <state width="1322" height="121" key="GridCell.Tab.0.right" timestamp="1614241568146">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="127" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603445590641" />
-    <state width="1899" height="349" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603697125061" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606706235961" />
-    <state width="1899" height="172" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603478156605" />
-    <state width="1899" height="433" key="GridCell.Tab.0.right/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603487333692" />
-    <state x="2036" y="117" width="1688" height="806" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603677823255">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1322" height="121" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1614241568146" />
+    <state width="1712" height="258" key="GridCell.Tab.0.right/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1606832158381" />
+    <state x="549" y="144" width="600" height="536" key="find.popup" timestamp="1614240332522">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603420217487" />
-    <state x="2036" y="117" width="1688" height="806" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603677823255" />
-    <state x="116" y="117" width="1688" height="806" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603486137999" />
-    <state x="585" y="182" width="750" height="677" key="find.popup" timestamp="1603462088460">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="549" y="144" width="600" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1614240332522" />
+    <state x="431" y="145" width="672" height="679" key="search.everywhere.popup" timestamp="1606720660426">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="468" y="144" width="600" height="536" key="find.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603439530063" />
-    <state x="585" y="182" width="750" height="677" key="find.popup/1920.-1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603462088460" />
-    <state x="2650" y="380" key="git4idea.rebase.GitRebaseDialog" timestamp="1603679462036">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2650" y="380" key="git4idea.rebase.GitRebaseDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603679462036" />
-    <state x="2658" y="419" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603679637299">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2658" y="419" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603679637299" />
-    <state x="2672" y="378" key="scopes" timestamp="1603697525768">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2672" y="378" key="scopes/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603697525768" />
-    <state x="2459" y="183" width="840" height="856" key="search.everywhere.popup" timestamp="1603678254604">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603436467014" />
-    <state x="2459" y="183" width="840" height="856" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603678254604" />
-    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603474486571" />
+    <state x="431" y="145" width="672" height="679" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1606720660426" />
   </component>
 </project>
